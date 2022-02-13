@@ -1,5 +1,6 @@
 ## philosophers (125%)
-<img src="image/philosophers_example.png" height="300"/>
+<img src="philosophers_example.png" height="300"/>
+<p>
 
 ## Основная часть
 #### Каждый философ запускается как поток, и контроль общих вилок происходит с использованием мьютексов.
